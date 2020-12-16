@@ -23,50 +23,9 @@ Mejoras de exploración
 
 TABLAS DE CONSUMO DEL ORACLE
 -- LISTADO_COMENTARIO
-
-+-----------------+-------------------+-------------+
-|   COLUMN_NAME   |     DATA_TYPE     | IS_NULLABLE |
-+-----------------+-------------------+-------------+
-| NOMBRE_OBJETO   | CHARACTER VARYING | YES         |
-| NOMBRE_VARIABLE | CHARACTER VARYING | YES         |
-| COMENTARIO      | CHARACTER VARYING | YES         |
-| OBSERVACION     | CHARACTER VARYING | YES         |
-| ESTADO          | CHARACTER         | YES         |
-+-----------------+-------------------+-------------+
-
--- LISTADO_OBJECT -
-+---------------+-------------------+-------------+
-|  COLUMN_NAME  |     DATA_TYPE     | IS_NULLABLE |
-+---------------+-------------------+-------------+
-| ESQUEMA       | CHARACTER VARYING | NO          |
-| NOMBRE_OBJETO | CHARACTER VARYING | NO          |
-| DESCRIPCION   | CHARACTER VARYING | YES         |
-| FUENTE        | CHARACTER VARYING | YES         |
-| DOMINIO       | CHARACTER VARYING | YES         |
-| SIZE_GIGA     | DECIMAL           | YES         |
-| SIZE_MEGA     | DECIMAL           | YES         |
-| CANT_REG      | DECIMAL           | YES         |
-| TIPO          | CHARACTER VARYING | YES         |
-| ESTADO        | CHARACTER         | YES         |
-+---------------+-------------------+-------------+
-
--- LISTADO_DICCIONARIO -
-
-+-----------------+-------------------+-------------+
-|   COLUMN_NAME   |     DATA_TYPE     | IS_NULLABLE |
-+-----------------+-------------------+-------------+
-| ESQUEMA         | CHARACTER VARYING | NO          |
-| NOMBRE_OBJETO   | CHARACTER VARYING | NO          |
-| NOMBRE_VARIABLE | CHARACTER VARYING | NO          |
-| DATA_TYPE       | CHARACTER VARYING | YES         |
-| DATA_LENGTH     | DECIMAL           | YES         |
-| DATA_PRECISION  | DECIMAL           | YES         |
-| IND_NULL        | CHARACTER         | YES         |
-| DATA_DEFAULT    | CHARACTER VARYING | YES         |
-| ID_VARIABLE     | DECIMAL           | YES         |
-| COMMENTS        | CHARACTER VARYING | YES         |
-+-----------------+-------------------+-------------+
-
+-- LISTADO_OBJECT
+-- LISTADO_DICCIONARIO 
+-- Tablas del Catálogo
 
 --- Observaciones a mejorar 01
 1) mas visual (stand by)
