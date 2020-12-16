@@ -23,9 +23,13 @@ Mejoras de exploración
 
 TABLAS DE CONSUMO DEL ORACLE
 -- LISTADO_COMENTARIO
+
 -- LISTADO_OBJECT
+
 -- LISTADO_DICCIONARIO 
+
 -- Tablas del Catálogo
+
 
 --- Observaciones a mejorar 01
 1) mas visual (stand by)
