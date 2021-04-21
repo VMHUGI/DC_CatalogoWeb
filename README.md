@@ -14,11 +14,11 @@ Servicio Web implementado para el catálogo de datos de la UGI
 
 ### Mejoras de exploración
 
--- dato critico
--- cantidad de registros de la tabla
--- muestra de datos top mil
--- tablas asociadas a las unidades de analizis
--- historica, data por a;o, desde cuando tiene la data
+- dato critico
+- cantidad de registros de la tabla
+- muestra de datos top mil
+- tablas asociadas a las unidades de analizis
+- historica, data por a;o, desde cuando tiene la data
 
 
 ### TABLAS DE CONSUMO DEL ORACLE
