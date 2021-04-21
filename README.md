@@ -1,7 +1,7 @@
 # DC_CatalogoWeb
 Servicio Web implementado para el catálogo de datos de la UGI
 
-Componentes Implementados:
+# Componentes Implementados:
 -- navegation bar con opcion de regreso a inicio <a link reference : inicio>.
 -- Search bar.
 -- Search hacia la base de datos
@@ -12,7 +12,7 @@ Componentes Implementados:
 -- Descarga de muestra de datos (20 registros)
 
 
-Mejoras de exploración
+# Mejoras de exploración
 
 -- dato critico
 -- cantidad de registros de la tabla
@@ -21,7 +21,7 @@ Mejoras de exploración
 -- historica, data por a;o, desde cuando tiene la data
 
 
-TABLAS DE CONSUMO DEL ORACLE
+# TABLAS DE CONSUMO DEL ORACLE
 -- LISTADO_COMENTARIO
 
 -- LISTADO_OBJECT
@@ -31,12 +31,12 @@ TABLAS DE CONSUMO DEL ORACLE
 -- Tablas del Catálogo
 
 
---- Observaciones a mejorar 01
+# Observaciones a mejorar 01
 1) mas visual (stand by)
 2) darle una proyeccion para incluir las unidades 
 3) descripcion del dominio en la vista tablas
 
--- Observaciones a mejorar 02
+# Observaciones a mejorar 02
 1) " Disponible en DataLake MEF " -- Icono
 2) Cabecera y cuadro uniforme en los dominios
 3) Los numeros grandes que sean legibles a lectura
@@ -48,7 +48,7 @@ TABLAS DE CONSUMO DEL ORACLE
 9) mismos tama;os en los box de los dominios (Completar com cuadros vacios las estructuras de 3 en el home)
 10) Verificar la compatibilidad con las herramientas de OGTI (Con Tooru)
 
--- Observaciones a mejorar 03
+# Observaciones a mejorar 03
 METADATOS Y CATALOGACIÓN
 ·        En la exploración de campos se recomienda colocar la descripción de los campos.
 ·        Los campos de códigos, colocar dominio de valores (en los que corresponda)
