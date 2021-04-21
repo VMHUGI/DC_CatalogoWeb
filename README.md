@@ -2,14 +2,14 @@
 Servicio Web implementado para el catálogo de datos de la UGI
 
 ### Componentes Implementados:
--- navegation bar con opcion de regreso a inicio <a link reference : inicio>.
--- Search bar.
--- Search hacia la base de datos
--- Formulario donde alimente tabla de dominios y que linkee las tablas asociadas
--- Diseno del footer
--- Cards por Dominio
--- Table View
--- Descarga de muestra de datos (20 registros)
+- navegation bar con opcion de regreso a inicio <a link reference : inicio.
+- Search bar.
+- Search hacia la base de datos
+- Formulario donde alimente tabla de dominios y que linkee las tablas asociadas
+- Diseno del footer
+- Cards por Dominio
+- Table View
+- Descarga de muestra de datos (20 registros)
 
 
 ### Mejoras de exploración
@@ -22,13 +22,13 @@ Servicio Web implementado para el catálogo de datos de la UGI
 
 
 ### TABLAS DE CONSUMO DEL ORACLE
--- LISTADO_COMENTARIO
+- LISTADO_COMENTARIO
 
--- LISTADO_OBJECT
+- LISTADO_OBJECT
 
--- LISTADO_DICCIONARIO 
+- LISTADO_DICCIONARIO 
 
--- Tablas del Catálogo
+- Tablas del Catálogo
 
 
 ### Observaciones a mejorar 01
@@ -50,11 +50,11 @@ Servicio Web implementado para el catálogo de datos de la UGI
 
 ### Observaciones a mejorar 03
 METADATOS Y CATALOGACIÓN
-·        En la exploración de campos se recomienda colocar la descripción de los campos.
-·        Los campos de códigos, colocar dominio de valores (en los que corresponda)
-·        Colocar un diagrama de relaciones de tablas y campos
-·        Identificar la fecha y hora de la última actualización de cada tabla, tipo de recurso ( Oracle, SQL, información no relacional, otros)
-·        Tener información del número de consultas realizadas o utilizadas por cada tabla
-·        Auditoría de que usuarios han bajado o utilizado la información
-·        Establecer procedimiento referente a la protección de datos personales, datos sensibles, enmascaramiento de campos.
-·        No solo colocar buscador de información, sino una sección de filtros por otros metadatos.
+- En la exploración de campos se recomienda colocar la descripción de los campos.
+- Los campos de códigos, colocar dominio de valores (en los que corresponda)
+- Colocar un diagrama de relaciones de tablas y campos
+- Identificar la fecha y hora de la última actualización de cada tabla, tipo de recurso ( Oracle, SQL, información no relacional, otros)
+- Tener información del número de consultas realizadas o utilizadas por cada tabla
+- Auditoría de que usuarios han bajado o utilizado la información
+- Establecer procedimiento referente a la protección de datos personales, datos sensibles, enmascaramiento de campos.
+- No solo colocar buscador de información, sino una sección de filtros por otros metadatos.
