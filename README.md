@@ -1,4 +1,4 @@
-# DC_CatalogoWeb
+# Desarrollo de una versión Web de Catálogo de Datos
 Servicio Web implementado para el catálogo de datos de la UGI
 
 ### Componentes Implementados:
